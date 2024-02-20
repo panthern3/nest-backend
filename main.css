@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Arboria-Book";
+    src: url("https://db.onlinewebfonts.com/t/1c7f14203d028f1c6f8914508f469cb9.eot");
+    src: url("https://db.onlinewebfonts.com/t/1c7f14203d028f1c6f8914508f469cb9.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1c7f14203d028f1c6f8914508f469cb9.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1c7f14203d028f1c6f8914508f469cb9.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/1c7f14203d028f1c6f8914508f469cb9.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/1c7f14203d028f1c6f8914508f469cb9.svg#Arboria-Book")format("svg");
+}
+
+@font-face {
+    font-family: "Arboria-Medium";
+    src: url("https://db.onlinewebfonts.com/t/dda65d7f418f4ab23abf484c807c9f17.eot");
+    src: url("https://db.onlinewebfonts.com/t/dda65d7f418f4ab23abf484c807c9f17.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/dda65d7f418f4ab23abf484c807c9f17.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/dda65d7f418f4ab23abf484c807c9f17.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/dda65d7f418f4ab23abf484c807c9f17.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/dda65d7f418f4ab23abf484c807c9f17.svg#Arboria-Medium")format("svg");
+}
