@@ -1,7 +1,7 @@
 #NestJS
 
 Установка Nest.js Убедитесь, что у вас установлен Node.js и npm. npm install -g @nestjs/cli # Установка глобального пакета Nest.js CLI
-
+в корневой директорий
 1. npm install -g @nestjs/cli
 2. npm install nuxt
 
