@@ -1,11 +1,14 @@
 #NestJS
-Для запуска бэкенда
-
-1.cd /tapigo/backend/
 
 Установка Nest.js Убедитесь, что у вас установлен Node.js и npm. npm install -g @nestjs/cli # Установка глобального пакета Nest.js CLI
 
-2. npm run start
+1. npm install -g @nestjs/cli
+2. npm install nuxt
+
+
+Для запуска бэкенда
+3.cd /tapigo/backend/
+4. npm run start
 
 После запуска NestJS запускается страница с Nuxt
 
