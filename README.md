@@ -7,6 +7,7 @@
 
 
 Для запуска бэкенда
+
 3.cd /tapigo/backend/
 4. npm run start
 
